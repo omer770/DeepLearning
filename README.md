@@ -1,4 +1,3 @@
 # DeepLearning
-Tutorial on ML concepts
-
-
+Tutorial
+For Mastery 
