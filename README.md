@@ -1,3 +1,3 @@
 # DeepLearning
-Tutorial
-For Mastery 
+Tutorial For Mastery 
+form youtube
