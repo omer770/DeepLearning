@@ -2,4 +2,3 @@
 g
 fg
 fg
-fg
