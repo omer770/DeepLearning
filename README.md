@@ -1,4 +1,3 @@
 # DeepLearning
 
 tut
-oki
