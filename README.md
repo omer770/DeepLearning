@@ -1,5 +1,3 @@
 # DeepLearning:
 k\
 
-kop[
-op
