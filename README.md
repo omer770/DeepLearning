@@ -1,2 +1,2 @@
 # DeepLearning:
-step by step guide
+step by step
