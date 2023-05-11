@@ -1,2 +1,1 @@
 # DeepLearning:
-step by step
